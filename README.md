@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, I'm [Yue Pan](https://www.linkedin.com/in/yue-pan-716289250), A Full-stack developer.
 
-- 🔭 I’m currently seeking a **full-time software engineer** position.
+- 🔭 I’m currently seeking a **Full-Time Software Engineer** position.
 
 - 🌱 I’m currently studying at the University of Southern California, and expect to graduate in May 2024.
 
