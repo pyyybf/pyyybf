@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm [Yue Pan](https://www.linkedin.com/in/yue-pan-716289250), A Full-stack developer.
+Hello, I'm [Yue Pan](https://www.linkedin.com/in/yue-pan-716289250), a full-stack developer.
 
 - 🔭 I’m currently seeking a **Full-Time Software Engineer** position.
 
