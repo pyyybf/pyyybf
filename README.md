@@ -25,6 +25,6 @@ Hello, I'm [Yue Pan](https://www.linkedin.com/in/yue-pan-716289250), A Full-stac
 
 - 📫 How to reach me
 
-  [![email: pyyybf@gmail.com](https://img.shields.io/badge/email-pyyybf@gmail.com-yellowgreen?style=for-the-badge&logo=gmail)](mailto:pyyybf@gmail.com)
+  [![email: pyyybf@gmail.com](https://img.shields.io/badge/email-pyyybf@gmail.com-2e64bc?style=for-the-badge&logo=gmail)](mailto:pyyybf@gmail.com)
 
 - 😄 Pronouns: She/Her
